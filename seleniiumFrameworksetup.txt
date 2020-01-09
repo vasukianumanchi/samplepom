@@ -1,0 +1,11 @@
+Install jdk 
+Install Eclipse
+
+Install testNg plugin into eclipse. 
+make sure downloaded version of eclipse have maven m2 plugin by default. (latest versions do have)
+
+try out sample script and run with testng
+
+build should succeed and the tests should pass. 
+
+
